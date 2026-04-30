@@ -14,6 +14,8 @@ matplotlib==3.8.3
 
 streamlit-webrtc==0.47.1
 
+tornado==6.3.3
+
 torch==2.1.1
 
 torchvision==0.16.1
